@@ -34,7 +34,6 @@ Please read through the points given below before you begin :
 
 5. You are are free to use any predictive modelling technique
 
-Feel free to take to QA forum for this specific project for any clarifications. you will find this under the same tab
 
 
 
